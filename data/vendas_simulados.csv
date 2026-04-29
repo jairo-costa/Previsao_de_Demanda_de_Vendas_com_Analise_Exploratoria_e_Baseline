@@ -1,1 +1,1 @@
-
+df.to_csv("../data/vendas_simuladas.csv", index=False)      
