@@ -65,6 +65,12 @@ A análise completa está disponível em:
 
 `notebooks/01_previsao_demanda_vendas.ipynb`
 
+## Visualizações
+
+![Vendas](imagens/graficos_exportados/grafico_vendas.png)
+![Média Móvel](imagens/graficos_exportados/grafico_media_movel.png)
+![Sazonalidade](imagens/graficos_exportados/grafico_semana.png)
+
 ---
 
 ## Próximos Passos
